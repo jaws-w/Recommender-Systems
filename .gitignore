@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 u1basedata.csv
+u1_pearsonmatrix - Copy.csv
+u1_pearsonmatrix.csv
+u1pearsonmatrix.csv
