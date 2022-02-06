@@ -130,3 +130,5 @@ dmypy.json
 *.csv
 
 ml-latest/
+data_20m.npz
+results.txt
