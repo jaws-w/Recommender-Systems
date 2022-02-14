@@ -132,3 +132,13 @@ dmypy.json
 ml-latest/
 data_20m.npz
 results.txt
+data_20m_0.npz
+data_20m_1.npz
+data_20m_2.npz
+data_20m_3.npz
+data_20m_4.npz
+ml-1m/users.dat
+ml-1m/README
+ml-1m/ratings.dat
+ml-1m/movies.dat
+.gitignore
